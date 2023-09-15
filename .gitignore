@@ -1,0 +1,14 @@
+.DS_Store
+
+# Autosaves
+*(Autosaved)*
+*.backup
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+venv
+env
